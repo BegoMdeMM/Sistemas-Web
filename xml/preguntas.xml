@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<assessmentItems>
+  <assessmentItem complexity="2" subject="Web">
+    <itemBody>
+      <p>Tag HTML para a&#xF1;adir un formulario</p>
+    </itemBody>
+    <correctResponse>
+      <value>
+				FORM
+			</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="4" subject="Internet">
+    <itemBody>
+      <p>Este protocolo acabar&#xE1; funcionando 
+			incluso entre dos latas unidas por un cord&#xF3;n</p>
+    </itemBody>
+    <correctResponse>
+      <value>
+				TCP/IP
+			</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="1" subject="A por todas">
+    <itemBody>
+      <p>Me la juego?</p>
+    </itemBody>
+    <correctResponse>
+      <value>si</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="1" subject="historia">
+    <itemBody>
+      <p>De que color es el caballo blanco de santiago</p>
+    </itemBody>
+    <correctResponse>
+      <value>blanco</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="2" subject="Informatica">
+    <itemBody>
+      <p>&#xBF;Cual fue el primer Navegador?</p>
+    </itemBody>
+    <correctResponse>
+      <value>NetScape</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="1" subject="dos">
+    <itemBody>
+      <p>Hola?</p>
+    </itemBody>
+    <correctResponse>
+      <value>hola!</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="1" subject="caca">
+    <itemBody>
+      <p>Buenas</p>
+    </itemBody>
+    <correctResponse>
+      <value>Hola</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="1" subject="">
+    <itemBody>
+      <p>Hola?</p>
+    </itemBody>
+    <correctResponse>
+      <value>NetScape</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="1" subject="A por todas">
+    <itemBody>
+      <p>Hola?</p>
+    </itemBody>
+    <correctResponse>
+      <value>caca</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="1" subject="dada">
+    <itemBody>
+      <p>Esta sera la pregunta correcta?</p>
+    </itemBody>
+    <correctResponse>
+      <value>Esperemos que si</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="1" subject="dada">
+    <itemBody>
+      <p>Habra funcionado?</p>
+    </itemBody>
+    <correctResponse>
+      <value>Esperemos que si</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="1" subject="dada">
+    <itemBody>
+      <p>Esstoy usando Ajax?</p>
+    </itemBody>
+    <correctResponse>
+      <value> si</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="1" subject="dada">
+    <itemBody>
+      <p>Esstoy usando Ajax?</p>
+    </itemBody>
+    <correctResponse>
+      <value> si</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="1" subject="ee">
+    <itemBody>
+      <p>ggg</p>
+    </itemBody>
+    <correctResponse>
+      <value>aaa</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="2" subject="1">
+    <itemBody>
+      <p>aaa</p>
+    </itemBody>
+    <correctResponse>
+      <value>qqq</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="1" subject="Hechos obvios.">
+    <itemBody>
+      <p>&#xBF;Qui&#xE9;n es la mejor?</p>
+    </itemBody>
+    <correctResponse>
+      <value>Yo, obviamente.</value>
+    </correctResponse>
+  </assessmentItem>
+  <assessmentItem complexity="3" subject="Cultura General">
+    <itemBody>
+      <p>&#xBF;De qui&#xE9;n era sobrina Ada Lovelace?</p>
+    </itemBody>
+    <correctResponse>
+      <value>Lord Byron</value>
+    </correctResponse>
+  </assessmentItem>
+</assessmentItems>

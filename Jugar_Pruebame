@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="tipo_contenido" content="text/html;" http-equiv="content-type" charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="estilosMario/register.css" media="screen" />
+  <script type="text/javascript" src="scripts/scriptValores.js"></script>
+  <script type="text/javascript" src="scripts/scriptValidadores.js"></script>
+  <script type="text/javascript" src="scripts/scriptAñadirCampos.js"></script>
+  <?php 
+	include ('prueba.php'); 
+	include ('funciones.php'); 
+	?>
+  </head>
+  
+  <body>
+  <h5>Pruebame</h5>
+
+  <div id="Juegar">
+    <form method="POST" enctype="multipart/form-data" id="jugar" action="Jugar_Pruebame.php">
+	<?php echo viewQuestions($email); ?>
+	</br>
+	<a href="index.php">Volver al inicio</a>
+	</body>
+          <input type="submit" value="Enviar" />
+      </form>
+  </div>
+  <div id="footer">
+    <a href="index.php">Inicio</a>
+  </div>
+</body>
+</html>
